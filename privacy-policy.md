@@ -89,6 +89,8 @@ This legal website is hosted on GitHub Pages. GitHub states that it logs visitor
 
 Local task information, preferences and attachments generally remain until removed through available App controls, clearing the App's storage, or uninstalling. Deleted items may remain in Recently Deleted until permanently removed through the available controls or the App's retention process. External exports, calendar events and copies in other apps are managed separately. Device backups or transfers, where available, depend on your Android version, device and backup settings; we do not promise that they will recover your data.
 
+**Request personal data deletion:** Use our [Data Deletion Request page](data-deletion.html) to email a request. You do not need an ADS account or the installed app to submit it. The page explains local-only data, support records, subscription information and retention limits.
+
 Support correspondence is retained as reasonably necessary to answer requests, maintain appropriate support records, prevent abuse or meet legal obligations. You may request deletion of information you sent us by emailing [adstodolist.support@gmail.com](mailto:adstodolist.support@gmail.com).
 
 You may also use that address to request access, correction or deletion of subscription-related personal information processed for ADS Digital Apps, including through RevenueCat. We may ask for enough information to locate the relevant record and verify the request; do not send your password or full payment-card details. Requests are handled subject to applicable law and any records that must be retained. Google Play may independently retain purchase records under its own requirements.
